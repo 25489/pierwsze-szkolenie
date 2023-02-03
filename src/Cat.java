@@ -20,5 +20,5 @@ public class Cat {
     String znakszczegolny;
     String imie;
     int wiek;
-    int plec;
+    String plec;
 }
